@@ -1,0 +1,2507 @@
+{
+  "statuses": [
+    {
+      "created_at": "Tue Aug 16 01:08:10 +0000 2016",
+      "id": 765354432020308000,
+      "id_str": "765354432020307969",
+      "text": "Fire that dances to music. Giving away one free product every week: https://t.co/6aRt4XYdCb I would love one",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6aRt4XYdCb",
+            "expanded_url": "http://offers.musiccityfirecompany.com/sound-reactive-fire-pit-giveaway/?kid=B34Y2",
+            "display_url": "offers.musiccityfirecompany.com/sound-reactive…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3237583531,
+        "id_str": "3237583531",
+        "name": "Yeshua My Lord God.",
+        "screen_name": "nyhighlanders11",
+        "location": "Oregon, USA",
+        "description": "Yeshua the truth and life. I stand with ISRAEL. Pray always. Hospice volunteer. Respect every life from womb to tomb. God Reigns! Former SOP St. Albert's",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 482,
+        "friends_count": 1601,
+        "listed_count": 0,
+        "created_at": "Sat Jun 06 04:49:32 +0000 2015",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 477,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237583531/1455763657",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:07:10 +0000 2016",
+      "id": 765354178667384800,
+      "id_str": "765354178667384832",
+      "text": "Reactive Hypoglycemia and Idiopathic Postprandial Syndrome: Diagnosis and Getting Back to Normal - https://t.co/JiURwB493P",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JiURwB493P",
+            "expanded_url": "http://diabetes.buzzinginfo.com/reactive-hypoglycemia-and-idiopathic-postprandial-syndrome-diagnosis-and-getting-back-to-normal/",
+            "display_url": "diabetes.buzzinginfo.com/reactive-hypog…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://diabetes.buzzinginfo.com/\" rel=\"nofollow\">TwitterPostingHere</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 737694621392900100,
+        "id_str": "737694621392900096",
+        "name": "Steve Vonner",
+        "screen_name": "DiabetesGonex",
+        "location": "",
+        "description": "Dedicated to showing how to reverse diabetes permanently in as little as 11 days.",
+        "url": "https://t.co/MujzmhTh5F",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MujzmhTh5F",
+                "expanded_url": "http://diabetes.buzzinginfo.com/",
+                "display_url": "diabetes.buzzinginfo.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 178,
+        "friends_count": 327,
+        "listed_count": 2,
+        "created_at": "Tue May 31 17:17:58 +0000 2016",
+        "favourites_count": 0,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2936,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737695561151700993/g96ZLvtE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/737695561151700993/g96ZLvtE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/737694621392900096/1464965088",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:04:26 +0000 2016",
+      "id": 765353492575682600,
+      "id_str": "765353492575682560",
+      "text": "chagiyya reactive your acc juseyoooo, my fav(s) are goneeeee",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 744902593776754700,
+        "id_str": "744902593776754689",
+        "name": "lisa™",
+        "screen_name": "koalalisaa",
+        "location": "Black Pinkeu'e lisa imnida",
+        "description": "so baby pull me closer and i'll bite that tattoo on your shoulder—",
+        "url": "https://t.co/JctxX3r1ae",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JctxX3r1ae",
+                "expanded_url": "http://WARNING.IM.OOC.com",
+                "display_url": "WARNING.IM.OOC.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 25,
+        "friends_count": 27,
+        "listed_count": 0,
+        "created_at": "Mon Jun 20 14:39:52 +0000 2016",
+        "favourites_count": 27,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 695,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765073583429136384/SHNcQVJr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765073583429136384/SHNcQVJr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/744902593776754689/1470095755",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:02:08 +0000 2016",
+      "id": 765352910892912600,
+      "id_str": "765352910892912640",
+      "text": "The task referring to high reactive current gearwheel motorized vehicle fronting industries: iywSIoQg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1238453774,
+        "id_str": "1238453774",
+        "name": "JulieLily",
+        "screen_name": "JulieLily1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 244,
+        "friends_count": 1,
+        "listed_count": 50,
+        "created_at": "Sun Mar 03 09:41:22 +0000 2013",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Riyadh",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 118376,
+        "lang": "ko",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3474882433/32f45db4062c51216d97334984729fec_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3474882433/32f45db4062c51216d97334984729fec_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:01:58 +0000 2016",
+      "id": 765352871655272400,
+      "id_str": "765352871655272448",
+      "text": "I needed a dose of inspiration today &amp; this blog post by @KristineRusch really helped. https://t.co/NCJSvRs0kS #selfpublishing #writing",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "selfpublishing",
+            "indices": [
+              115,
+              130
+            ]
+          },
+          {
+            "text": "writing",
+            "indices": [
+              131,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KristineRusch",
+            "name": "KristineKathrynRusch",
+            "id": 27187116,
+            "id_str": "27187116",
+            "indices": [
+              61,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NCJSvRs0kS",
+            "expanded_url": "http://kriswrites.com/2016/01/06/business-musings-the-reactive-business-model/",
+            "display_url": "kriswrites.com/2016/01/06/bus…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2579360365,
+        "id_str": "2579360365",
+        "name": "Marion Hill",
+        "screen_name": "kammbia1",
+        "location": "San Antonio, TX",
+        "description": "Novelist, Book Review Blogger, and Creator of Kammbia #contemporaryfantasy #urbanfantasy",
+        "url": "http://t.co/iE7dqZq18L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/iE7dqZq18L",
+                "expanded_url": "http://marion-hill.com",
+                "display_url": "marion-hill.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 215,
+        "listed_count": 12,
+        "created_at": "Fri Jun 20 22:21:24 +0000 2014",
+        "favourites_count": 309,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 394,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "59472F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/480132444608151552/7D2mJF3S.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/480132444608151552/7D2mJF3S.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480116721483665408/O721UWko_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480116721483665408/O721UWko_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2579360365/1463791782",
+        "profile_link_color": "52555C",
+        "profile_sidebar_border_color": "000515",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "827972",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:01:57 +0000 2016",
+      "id": 765352864436846600,
+      "id_str": "765352864436846592",
+      "text": "@klemm31 Hello Chad. We're here to help. If updates fail to install, try these solutions: https://t.co/OBGCsUHQOj Keep us posted.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "klemm31",
+            "name": "Chad Klemencic",
+            "id": 382939427,
+            "id_str": "382939427",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OBGCsUHQOj",
+            "expanded_url": "http://msft.it/6014B23Nk",
+            "display_url": "msft.it/6014B23Nk",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_status_id": 764876057099046900,
+      "in_reply_to_status_id_str": "764876057099046913",
+      "in_reply_to_user_id": 382939427,
+      "in_reply_to_user_id_str": "382939427",
+      "in_reply_to_screen_name": "klemm31",
+      "user": {
+        "id": 2898934801,
+        "id_str": "2898934801",
+        "name": "Surface Support",
+        "screen_name": "SurfaceSupport",
+        "location": "Redmond, WA",
+        "description": "The official Twitter page for Microsoft Surface Support",
+        "url": "http://t.co/uzANjFNzsF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/uzANjFNzsF",
+                "expanded_url": "http://surface.com/support",
+                "display_url": "surface.com/support",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5828,
+        "friends_count": 186,
+        "listed_count": 90,
+        "created_at": "Fri Nov 14 01:34:12 +0000 2014",
+        "favourites_count": 10,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 19625,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662039179077926912/Ip7_jte0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662039179077926912/Ip7_jte0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2898934801/1420761143",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:00:29 +0000 2016",
+      "id": 765352494964744200,
+      "id_str": "765352494964744192",
+      "text": "RT @KOlusola: @_superfruitt_ your environment doesn't define you. You define how you control your environment. Have a proactive mind, not a…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KOlusola",
+            "name": "Kevin K.O. Olusola",
+            "id": 65957347,
+            "id_str": "65957347",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "_superfruitt_",
+            "name": "Jenna",
+            "id": 738151037052190700,
+            "id_str": "738151037052190720",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 277074235,
+        "id_str": "277074235",
+        "name": "{Courtney}☀",
+        "screen_name": "CourtLovesAvi",
+        "location": "a million miles away",
+        "description": "I love Jesus and chicken nuggets and writing stories. // ...so I love you because I know no other way. {Pablo Neruda}",
+        "url": "https://t.co/wqCuv6DXZZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wqCuv6DXZZ",
+                "expanded_url": "http://my.w.tt/UiNb/VY5dEgSn0s",
+                "display_url": "my.w.tt/UiNb/VY5dEgSn0s",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 700,
+        "friends_count": 1529,
+        "listed_count": 6,
+        "created_at": "Mon Apr 04 17:02:34 +0000 2011",
+        "favourites_count": 22419,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14416,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/470051251808239616/OTispNE2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/470051251808239616/OTispNE2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/762336303174283265/aAgwpfyH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/762336303174283265/aAgwpfyH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/277074235/1470895263",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "E2E2E2",
+        "profile_sidebar_fill_color": "BABABA",
+        "profile_text_color": "878787",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 23:22:24 +0000 2016",
+        "id": 765327812098162700,
+        "id_str": "765327812098162688",
+        "text": "@_superfruitt_ your environment doesn't define you. You define how you control your environment. Have a proactive mind, not a reactive one.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "_superfruitt_",
+              "name": "Jenna",
+              "id": 738151037052190700,
+              "id_str": "738151037052190720",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 765327204041560000,
+        "in_reply_to_status_id_str": "765327204041560064",
+        "in_reply_to_user_id": 738151037052190700,
+        "in_reply_to_user_id_str": "738151037052190720",
+        "in_reply_to_screen_name": "_superfruitt_",
+        "user": {
+          "id": 65957347,
+          "id_str": "65957347",
+          "name": "Kevin K.O. Olusola",
+          "screen_name": "KOlusola",
+          "location": "Snapchat: kolusola",
+          "description": "Making a difference everyday. 1/5 of @ptxofficial. Order The #TriptyqSessions: https://t.co/fRxcTiRhIA",
+          "url": "https://t.co/xSVkzvw0CQ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/xSVkzvw0CQ",
+                  "expanded_url": "http://www.kevinolusola.com",
+                  "display_url": "kevinolusola.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/fRxcTiRhIA",
+                  "expanded_url": "http://apple.co/1S7nJel",
+                  "display_url": "apple.co/1S7nJel",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 778591,
+          "friends_count": 1534,
+          "listed_count": 1519,
+          "created_at": "Sat Aug 15 19:12:35 +0000 2009",
+          "favourites_count": 944,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 13178,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575349782194999296/nmAaO0fx.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575349782194999296/nmAaO0fx.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/680417121076129792/pFzJrOs-_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/680417121076129792/pFzJrOs-_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/65957347/1454635885",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "948794",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 81,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:00:12 +0000 2016",
+      "id": 765352424265494500,
+      "id_str": "765352424265494528",
+      "text": "RT @Swery65: How SWERY’s Reactive Hypoglycaemia Manifests Itself In His Video Games https://t.co/71DeEEABbi @viceuk @LaurakBuzz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Swery65",
+            "name": "SWERY",
+            "id": 102327566,
+            "id_str": "102327566",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "VICEUK",
+            "name": "VICE UK",
+            "id": 15995155,
+            "id_str": "15995155",
+            "indices": [
+              108,
+              115
+            ]
+          },
+          {
+            "screen_name": "LaurakBuzz",
+            "name": "Laura Kate Dale",
+            "id": 509274630,
+            "id_str": "509274630",
+            "indices": [
+              116,
+              127
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/71DeEEABbi",
+            "expanded_url": "http://www.vice.com/en_uk/read/how-developer-swerys-reactive-hypoglycaemia-manifests-itself-in-his-video-games-055-d4-deadly-premonition",
+            "display_url": "vice.com/en_uk/read/how…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 202966942,
+        "id_str": "202966942",
+        "name": "Pancakes in 3D",
+        "screen_name": "Pancakes_in_3D",
+        "location": "Internet",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 39,
+        "friends_count": 372,
+        "listed_count": 1,
+        "created_at": "Fri Oct 15 06:29:43 +0000 2010",
+        "favourites_count": 3297,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 590,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242651777/pancakes_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242651777/pancakes_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/202966942/1383335101",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 11:31:12 +0000 2016",
+        "id": 765148833714102300,
+        "id_str": "765148833714102273",
+        "text": "How SWERY’s Reactive Hypoglycaemia Manifests Itself In His Video Games https://t.co/71DeEEABbi @viceuk @LaurakBuzz",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "VICEUK",
+              "name": "VICE UK",
+              "id": 15995155,
+              "id_str": "15995155",
+              "indices": [
+                95,
+                102
+              ]
+            },
+            {
+              "screen_name": "LaurakBuzz",
+              "name": "Laura Kate Dale",
+              "id": 509274630,
+              "id_str": "509274630",
+              "indices": [
+                103,
+                114
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/71DeEEABbi",
+              "expanded_url": "http://www.vice.com/en_uk/read/how-developer-swerys-reactive-hypoglycaemia-manifests-itself-in-his-video-games-055-d4-deadly-premonition",
+              "display_url": "vice.com/en_uk/read/how…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 102327566,
+          "id_str": "102327566",
+          "name": "SWERY",
+          "screen_name": "Swery65",
+          "location": "Osaka /Greenvale /thompsonvill",
+          "description": "GUINNESS HOLDER\r\n\nThe Last Blade\nEXTERMINATION\nSpy Fiction\nDeadly Premonition\nLORD of ARCANA\nLORD of APOCALYPSE\nD4: Dark Dreams Don't Die\n\r\nI love you all!!",
+          "url": "https://t.co/y61BFYzwfc",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/y61BFYzwfc",
+                  "expanded_url": "http://d4-game.com/",
+                  "display_url": "d4-game.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 36427,
+          "friends_count": 35098,
+          "listed_count": 401,
+          "created_at": "Wed Jan 06 09:48:50 +0000 2010",
+          "favourites_count": 10214,
+          "utc_offset": 32400,
+          "time_zone": "Seoul",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 18355,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/727417033755774976/nRbU4_8R_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/727417033755774976/nRbU4_8R_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/102327566/1428548303",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 138,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 01:00:12 +0000 2016",
+      "id": 765352423879680000,
+      "id_str": "765352423879680000",
+      "text": "RT @Swery65: How SWERY’s Reactive Hypoglycaemia Manifests Itself In His Video Games https://t.co/71DeEEABbi @viceuk @LaurakBuzz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Swery65",
+            "name": "SWERY",
+            "id": 102327566,
+            "id_str": "102327566",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "VICEUK",
+            "name": "VICE UK",
+            "id": 15995155,
+            "id_str": "15995155",
+            "indices": [
+              108,
+              115
+            ]
+          },
+          {
+            "screen_name": "LaurakBuzz",
+            "name": "Laura Kate Dale",
+            "id": 509274630,
+            "id_str": "509274630",
+            "indices": [
+              116,
+              127
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/71DeEEABbi",
+            "expanded_url": "http://www.vice.com/en_uk/read/how-developer-swerys-reactive-hypoglycaemia-manifests-itself-in-his-video-games-055-d4-deadly-premonition",
+            "display_url": "vice.com/en_uk/read/how…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3194923849,
+        "id_str": "3194923849",
+        "name": "Luna Starcaster",
+        "screen_name": "LunaStarcaster",
+        "location": "City of BSOD, Windows",
+        "description": "Secret character. On a quest to become a cute witch. Games, comics, cute things (She, Her). Trans. Help, the closet door is jammed. https://t.co/lL9GtMI08j",
+        "url": "https://t.co/GXfaLC26wr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GXfaLC26wr",
+                "expanded_url": "http://lunargametext.tumblr.com/",
+                "display_url": "lunargametext.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/lL9GtMI08j",
+                "expanded_url": "http://lunacutealchemy.tumblr.com/",
+                "display_url": "lunacutealchemy.tumblr.com",
+                "indices": [
+                  132,
+                  155
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 417,
+        "listed_count": 5,
+        "created_at": "Thu May 14 03:18:17 +0000 2015",
+        "favourites_count": 4336,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2252,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734892566680731648/T2kDXCYZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734892566680731648/T2kDXCYZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3194923849/1456535282",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 11:31:12 +0000 2016",
+        "id": 765148833714102300,
+        "id_str": "765148833714102273",
+        "text": "How SWERY’s Reactive Hypoglycaemia Manifests Itself In His Video Games https://t.co/71DeEEABbi @viceuk @LaurakBuzz",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "VICEUK",
+              "name": "VICE UK",
+              "id": 15995155,
+              "id_str": "15995155",
+              "indices": [
+                95,
+                102
+              ]
+            },
+            {
+              "screen_name": "LaurakBuzz",
+              "name": "Laura Kate Dale",
+              "id": 509274630,
+              "id_str": "509274630",
+              "indices": [
+                103,
+                114
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/71DeEEABbi",
+              "expanded_url": "http://www.vice.com/en_uk/read/how-developer-swerys-reactive-hypoglycaemia-manifests-itself-in-his-video-games-055-d4-deadly-premonition",
+              "display_url": "vice.com/en_uk/read/how…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 102327566,
+          "id_str": "102327566",
+          "name": "SWERY",
+          "screen_name": "Swery65",
+          "location": "Osaka /Greenvale /thompsonvill",
+          "description": "GUINNESS HOLDER\r\n\nThe Last Blade\nEXTERMINATION\nSpy Fiction\nDeadly Premonition\nLORD of ARCANA\nLORD of APOCALYPSE\nD4: Dark Dreams Don't Die\n\r\nI love you all!!",
+          "url": "https://t.co/y61BFYzwfc",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/y61BFYzwfc",
+                  "expanded_url": "http://d4-game.com/",
+                  "display_url": "d4-game.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 36427,
+          "friends_count": 35098,
+          "listed_count": 401,
+          "created_at": "Wed Jan 06 09:48:50 +0000 2010",
+          "favourites_count": 10214,
+          "utc_offset": 32400,
+          "time_zone": "Seoul",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 18355,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/727417033755774976/nRbU4_8R_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/727417033755774976/nRbU4_8R_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/102327566/1428548303",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 138,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 00:57:47 +0000 2016",
+      "id": 765351815458254800,
+      "id_str": "765351815458254849",
+      "text": "@nilelg5 @fuckBlxdez haha reactive NEEDED",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nilelg5",
+            "name": "Nile",
+            "id": 1917959455,
+            "id_str": "1917959455",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "fuckBlxdez",
+            "name": "Ernest",
+            "id": 4615714217,
+            "id_str": "4615714217",
+            "indices": [
+              9,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 765351654057242600,
+      "in_reply_to_status_id_str": "765351654057242624",
+      "in_reply_to_user_id": 1917959455,
+      "in_reply_to_user_id_str": "1917959455",
+      "in_reply_to_screen_name": "nilelg5",
+      "user": {
+        "id": 2337440101,
+        "id_str": "2337440101",
+        "name": "мур мур",
+        "screen_name": "nyandesune",
+        "location": "germany",
+        "description": "yung lean,bones, pouya, suicideboys ♡ dota2 player hehe xd",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 108,
+        "friends_count": 72,
+        "listed_count": 0,
+        "created_at": "Tue Feb 11 00:02:49 +0000 2014",
+        "favourites_count": 7308,
+        "utc_offset": 7200,
+        "time_zone": "Berlin",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19648,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/683420979226406914/SZdGkpyR.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/683420979226406914/SZdGkpyR.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/761347004823920642/Sm-fGV13_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/761347004823920642/Sm-fGV13_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2337440101/1469934066",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 00:56:46 +0000 2016",
+      "id": 765351562390667300,
+      "id_str": "765351562390667265",
+      "text": "@shane_ingram am I joining this league with you? I'm going to reactive my league tomorrow.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shane_ingram",
+            "name": "Shane Ingram",
+            "id": 360277744,
+            "id_str": "360277744",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765341789041549300,
+      "in_reply_to_status_id_str": "765341789041549312",
+      "in_reply_to_user_id": 360277744,
+      "in_reply_to_user_id_str": "360277744",
+      "in_reply_to_screen_name": "shane_ingram",
+      "user": {
+        "id": 115191965,
+        "id_str": "115191965",
+        "name": "Jeremy Diamond",
+        "screen_name": "NatchezLaw",
+        "location": "Mississippi",
+        "description": "Father. Attorney. Runner. Searching for the true meaning of life...the best beer is the next beer.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 182,
+        "friends_count": 331,
+        "listed_count": 10,
+        "created_at": "Wed Feb 17 22:28:37 +0000 2010",
+        "favourites_count": 469,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1208,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724917213942173699/wuVI139u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724917213942173699/wuVI139u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115191965/1463792013",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 00:55:46 +0000 2016",
+      "id": 765351311445520400,
+      "id_str": "765351311445520388",
+      "text": "RT @VisualStudio: What's a really modern web app look like? @dotNETRocksShow talks to @_qooroo about the Reactive Trader Cloud, https://t.c…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "VisualStudio",
+            "name": "Visual Studio",
+            "id": 16913772,
+            "id_str": "16913772",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "DotNetRocksShow",
+            "name": "DotNet Rocks",
+            "id": 182498214,
+            "id_str": "182498214",
+            "indices": [
+              60,
+              76
+            ]
+          },
+          {
+            "screen_name": "_qooroo",
+            "name": "Qiming Liu",
+            "id": 67568833,
+            "id_str": "67568833",
+            "indices": [
+              86,
+              94
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ug6M0k1FjW",
+            "expanded_url": "http://spr.ly/6010BF2C2",
+            "display_url": "spr.ly/6010BF2C2",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://app.sociabble.com\" rel=\"nofollow\">SociabbleApp</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 24839378,
+        "id_str": "24839378",
+        "name": "Pradeep Nair",
+        "screen_name": "pradeepnair",
+        "location": "India ",
+        "description": "Developer, Cloud Specialist, Microsoft Employee",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 194,
+        "friends_count": 510,
+        "listed_count": 230,
+        "created_at": "Tue Mar 17 04:28:28 +0000 2009",
+        "favourites_count": 3295,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3626,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623803913389510656/mv91zetc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623803913389510656/mv91zetc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24839378/1439540361",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 22:10:00 +0000 2016",
+        "id": 765309593270517800,
+        "id_str": "765309593270517760",
+        "text": "What's a really modern web app look like? @dotNETRocksShow talks to @_qooroo about the Reactive Trader Cloud, https://t.co/ug6M0k1FjW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DotNetRocksShow",
+              "name": "DotNet Rocks",
+              "id": 182498214,
+              "id_str": "182498214",
+              "indices": [
+                42,
+                58
+              ]
+            },
+            {
+              "screen_name": "_qooroo",
+              "name": "Qiming Liu",
+              "id": 67568833,
+              "id_str": "67568833",
+              "indices": [
+                68,
+                76
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/ug6M0k1FjW",
+              "expanded_url": "http://spr.ly/6010BF2C2",
+              "display_url": "spr.ly/6010BF2C2",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16913772,
+          "id_str": "16913772",
+          "name": "Visual Studio",
+          "screen_name": "VisualStudio",
+          "location": "Redmond, WA, USA",
+          "description": "Follow us for the latest Microsoft Visual Studio news and related information for developers.",
+          "url": "http://t.co/OqnL9IGcUY",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/OqnL9IGcUY",
+                  "expanded_url": "http://www.visualstudio.com",
+                  "display_url": "visualstudio.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 373593,
+          "friends_count": 930,
+          "listed_count": 4617,
+          "created_at": "Wed Oct 22 22:01:24 +0000 2008",
+          "favourites_count": 407,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 22108,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "68217A",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117002036/51fcdb17ec1e080aa852086bcfbdd1a1.gif",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117002036/51fcdb17ec1e080aa852086bcfbdd1a1.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/505104774153256960/SR2hUhQN_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/505104774153256960/SR2hUhQN_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/16913772/1446224981",
+          "profile_link_color": "68217A",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "FFFFFF",
+          "profile_text_color": "1F222B",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 00:53:18 +0000 2016",
+      "id": 765350687483965400,
+      "id_str": "765350687483965442",
+      "text": "RT @KOlusola: @_superfruitt_ your environment doesn't define you. You define how you control your environment. Have a proactive mind, not a…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KOlusola",
+            "name": "Kevin K.O. Olusola",
+            "id": 65957347,
+            "id_str": "65957347",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "_superfruitt_",
+            "name": "Jenna",
+            "id": 738151037052190700,
+            "id_str": "738151037052190720",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2454271794,
+        "id_str": "2454271794",
+        "name": "Yanelli",
+        "screen_name": "_shortpotato_",
+        "location": "",
+        "description": "You can choose to be sad for what you lost, or happy of what you have left!",
+        "url": "https://t.co/VyL8qtNkGY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/VyL8qtNkGY",
+                "expanded_url": "http://Instagram.com/xoyanelli/",
+                "display_url": "Instagram.com/xoyanelli/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 198,
+        "friends_count": 661,
+        "listed_count": 0,
+        "created_at": "Sun Apr 20 05:56:35 +0000 2014",
+        "favourites_count": 7324,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4169,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/762698438345490434/2SKVYF_k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/762698438345490434/2SKVYF_k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2454271794/1435745216",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 23:22:24 +0000 2016",
+        "id": 765327812098162700,
+        "id_str": "765327812098162688",
+        "text": "@_superfruitt_ your environment doesn't define you. You define how you control your environment. Have a proactive mind, not a reactive one.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "_superfruitt_",
+              "name": "Jenna",
+              "id": 738151037052190700,
+              "id_str": "738151037052190720",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 765327204041560000,
+        "in_reply_to_status_id_str": "765327204041560064",
+        "in_reply_to_user_id": 738151037052190700,
+        "in_reply_to_user_id_str": "738151037052190720",
+        "in_reply_to_screen_name": "_superfruitt_",
+        "user": {
+          "id": 65957347,
+          "id_str": "65957347",
+          "name": "Kevin K.O. Olusola",
+          "screen_name": "KOlusola",
+          "location": "Snapchat: kolusola",
+          "description": "Making a difference everyday. 1/5 of @ptxofficial. Order The #TriptyqSessions: https://t.co/fRxcTiRhIA",
+          "url": "https://t.co/xSVkzvw0CQ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/xSVkzvw0CQ",
+                  "expanded_url": "http://www.kevinolusola.com",
+                  "display_url": "kevinolusola.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/fRxcTiRhIA",
+                  "expanded_url": "http://apple.co/1S7nJel",
+                  "display_url": "apple.co/1S7nJel",
+                  "indices": [
+                    79,
+                    102
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 778591,
+          "friends_count": 1534,
+          "listed_count": 1519,
+          "created_at": "Sat Aug 15 19:12:35 +0000 2009",
+          "favourites_count": 944,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 13178,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575349782194999296/nmAaO0fx.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575349782194999296/nmAaO0fx.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/680417121076129792/pFzJrOs-_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/680417121076129792/pFzJrOs-_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/65957347/1454635885",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "948794",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 81,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 16 00:53:06 +0000 2016",
+      "id": 765350637672525800,
+      "id_str": "765350637672525825",
+      "text": "RT @ElPitazoTV: #VIDEO | Capriles: “Ajustar el salario sin ninguna medida que reactive la producción va a traer más inflación” https://t.co…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VIDEO",
+            "indices": [
+              16,
+              22
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ElPitazoTV",
+            "name": "El Pitazo",
+            "id": 2828470096,
+            "id_str": "2828470096",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GgSGfsu20K",
+            "expanded_url": "http://bit.ly/2bvGx8A",
+            "display_url": "bit.ly/2bvGx8A",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 122202812,
+        "id_str": "122202812",
+        "name": "Neyda",
+        "screen_name": "neydapadilla",
+        "location": "",
+        "description": "Abogado. Egresada UCAB 1994. Post grado UCV y UCAB. Especialista Derecho Laboral.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 206,
+        "friends_count": 460,
+        "listed_count": 4,
+        "created_at": "Thu Mar 11 23:30:14 +0000 2010",
+        "favourites_count": 46,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18554,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478256713423155200/1SV1onvi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478256713423155200/1SV1onvi_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122202812/1467499746",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Aug 16 00:35:04 +0000 2016",
+        "id": 765346098978357200,
+        "id_str": "765346098978357249",
+        "text": "#VIDEO | Capriles: “Ajustar el salario sin ninguna medida que reactive la producción va a traer más inflación” https://t.co/GgSGfsu20K",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "VIDEO",
+              "indices": [
+                0,
+                6
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/GgSGfsu20K",
+              "expanded_url": "http://bit.ly/2bvGx8A",
+              "display_url": "bit.ly/2bvGx8A",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2828470096,
+          "id_str": "2828470096",
+          "name": "El Pitazo",
+          "screen_name": "ElPitazoTV",
+          "location": "Venezuela",
+          "description": "Noticias que no están en los medios tradicionales con protagonistas que están en nuestras calles. El Pitazo suena donde otros callan.",
+          "url": "https://t.co/NDOYmkpJ83",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/NDOYmkpJ83",
+                  "expanded_url": "http://www.elpitazo.com",
+                  "display_url": "elpitazo.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 125349,
+          "friends_count": 7432,
+          "listed_count": 690,
+          "created_at": "Mon Oct 13 21:30:32 +0000 2014",
+          "favourites_count": 550,
+          "utc_offset": -16200,
+          "time_zone": "Caracas",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 106006,
+          "lang": "es",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/761181893924716545/TSH2pALi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/761181893924716545/TSH2pALi_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2828470096/1450189269",
+          "profile_link_color": "3B94D9",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Tue Aug 16 00:44:37 +0000 2016",
+      "id": 765348504210399200,
+      "id_str": "765348504210399232",
+      "text": "RT @Swery65: How SWERY’s Reactive Hypoglycaemia Manifests Itself In His Video Games https://t.co/71DeEEABbi @viceuk @LaurakBuzz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Swery65",
+            "name": "SWERY",
+            "id": 102327566,
+            "id_str": "102327566",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "VICEUK",
+            "name": "VICE UK",
+            "id": 15995155,
+            "id_str": "15995155",
+            "indices": [
+              108,
+              115
+            ]
+          },
+          {
+            "screen_name": "LaurakBuzz",
+            "name": "Laura Kate Dale",
+            "id": 509274630,
+            "id_str": "509274630",
+            "indices": [
+              116,
+              127
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/71DeEEABbi",
+            "expanded_url": "http://www.vice.com/en_uk/read/how-developer-swerys-reactive-hypoglycaemia-manifests-itself-in-his-video-games-055-d4-deadly-premonition",
+            "display_url": "vice.com/en_uk/read/how…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2314587367,
+        "id_str": "2314587367",
+        "name": "Lyle Andrews",
+        "screen_name": "shiny_shovel",
+        "location": "",
+        "description": "Voted the East Coast's most bitter bastard the past 4 years running!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 100,
+        "friends_count": 242,
+        "listed_count": 72,
+        "created_at": "Tue Jan 28 00:46:24 +0000 2014",
+        "favourites_count": 12908,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5411,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630088951106158592/SsPZK203_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630088951106158592/SsPZK203_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Aug 15 11:31:12 +0000 2016",
+        "id": 765148833714102300,
+        "id_str": "765148833714102273",
+        "text": "How SWERY’s Reactive Hypoglycaemia Manifests Itself In His Video Games https://t.co/71DeEEABbi @viceuk @LaurakBuzz",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "VICEUK",
+              "name": "VICE UK",
+              "id": 15995155,
+              "id_str": "15995155",
+              "indices": [
+                95,
+                102
+              ]
+            },
+            {
+              "screen_name": "LaurakBuzz",
+              "name": "Laura Kate Dale",
+              "id": 509274630,
+              "id_str": "509274630",
+              "indices": [
+                103,
+                114
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/71DeEEABbi",
+              "expanded_url": "http://www.vice.com/en_uk/read/how-developer-swerys-reactive-hypoglycaemia-manifests-itself-in-his-video-games-055-d4-deadly-premonition",
+              "display_url": "vice.com/en_uk/read/how…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 102327566,
+          "id_str": "102327566",
+          "name": "SWERY",
+          "screen_name": "Swery65",
+          "location": "Osaka /Greenvale /thompsonvill",
+          "description": "GUINNESS HOLDER\r\n\nThe Last Blade\nEXTERMINATION\nSpy Fiction\nDeadly Premonition\nLORD of ARCANA\nLORD of APOCALYPSE\nD4: Dark Dreams Don't Die\n\r\nI love you all!!",
+          "url": "https://t.co/y61BFYzwfc",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/y61BFYzwfc",
+                  "expanded_url": "http://d4-game.com/",
+                  "display_url": "d4-game.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 36427,
+          "friends_count": 35098,
+          "listed_count": 401,
+          "created_at": "Wed Jan 06 09:48:50 +0000 2010",
+          "favourites_count": 10214,
+          "utc_offset": 32400,
+          "time_zone": "Seoul",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 18355,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/727417033755774976/nRbU4_8R_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/727417033755774976/nRbU4_8R_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/102327566/1428548303",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 138,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.083,
+    "max_id": 765354432020308000,
+    "max_id_str": "765354432020307969",
+    "next_results": "?max_id=765348504210399231&q=Reactive&include_entities=1",
+    "query": "Reactive",
+    "refresh_url": "?since_id=765354432020307969&q=Reactive&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
