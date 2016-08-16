@@ -36,13 +36,14 @@ public class TwitterProcessor implements Processor {
                 info.setTweetInfos(new ArrayList<TweetInfo>());
 
                 TweetSearchResults tweetSearchResults = searchRepository.searchTweets(info.getName());
-                for (Status statuses : tweetSearchResults.getStatuses()) {
-                    TweetInfo tweetInfo = new TweetInfo();
-                    tweetInfo.setDescription(statuses.getText());
-                    tweetInfo.setCreatedAt(statuses.getCreatedAt());
-                    tweetInfo.setUserId(statuses.getUser().getScreenName());
-                    info.getTweetInfos().add(tweetInfo);
-                }
+                if (tweetSearchResults != null)
+                    for (Status statuses : tweetSearchResults.getStatuses()) {
+                        TweetInfo tweetInfo = new TweetInfo();
+                        tweetInfo.setDescription(statuses.getText());
+                        tweetInfo.setCreatedAt(statuses.getCreatedAt());
+                        tweetInfo.setUserId(statuses.getUser().getScreenName());
+                        info.getTweetInfos().add(tweetInfo);
+                    }
                 repoTweetInfo.add(info);
             }
         exchange.getOut().setBody(repoTweetInfo);
